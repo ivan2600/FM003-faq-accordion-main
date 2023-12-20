@@ -1,0 +1,1 @@
+// https://futurecodersweb.com/faq-accordion-section-using-html-css-and-javascript/
