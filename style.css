@@ -79,3 +79,7 @@ h1 {
 .questions-container .question.activo .minus {
   display: block;
 }
+
+@media (max-width: 1010px) {
+  
+}
